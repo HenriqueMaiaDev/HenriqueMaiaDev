@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a1a1a,100:4d4d4d&height=200&section=header&text=Henrique%20Maia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Chatbot%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="assets/capa.svg" width="100%" alt="Henrique Maia - Chatbot Developer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+chatbots;JavaScript+%E2%80%A2+APIs+REST+%E2%80%A2+HTML+%E2%80%A2+CSS;Bots+de+atendimento+e+vendas;Automa%C3%A7%C3%A3o+de+atendimento" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=E6E6E6&background=0D0D0DFF&multiline=true&repeat=true&width=620&height=130&lines=const%20msg%20%3D%20%22Cad%C3%AA%20meu%20pedido%3F%22;const%20pedido%20%3D%20await%20api.get(%22%2Fpedidos%2F1024%22);%2F%2F%20%7B%20%22id%22%3A%201024%2C%20%22status%22%3A%20%22Em%20rota%22%20%7D;bot.enviar(%22Seu%20pedido%20est%C3%A1%20%22%20%2B%20pedido.status)" alt="Código JS" />
+  <img src="assets/terminal.svg" width="760" alt="Script de consulta de pedido no Blip" />
 </p>
 
 ---
@@ -79,4 +79,4 @@ const henrique = {
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,40:1a1a1a,100:000000&height=120&section=footer" width="100%" />
+<img src="assets/rodape.svg" width="100%" alt="" />

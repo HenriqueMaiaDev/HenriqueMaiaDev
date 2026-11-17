@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<style>
+.onda { fill: none; stroke: #fff; }
+.o1 { stroke-width: 2.5; opacity: .9; animation: corre 14s linear infinite; }
+.o2 { stroke-width: 1.5; opacity: .45; animation: corre 9s linear infinite reverse; }
+@keyframes corre { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+</style>
+<rect width="1200" height="120" fill="#000"/>
+<path class="onda o2" d="M 0 75 Q 55 66 110 75 T 220 75 T 330 75 T 440 75 T 550 75 T 660 75 T 770 75 T 880 75 T 990 75 T 1100 75 T 1210 75 T 1320 75 T 1430 75 T 1540 75 T 1650 75 T 1760 75 T 1870 75 T 1980 75 T 2090 75 T 2200 75 T 2310 75 T 2420 75"/>
+<path class="onda o1" d="M 0 60 Q 75 46 150 60 T 300 60 T 450 60 T 600 60 T 750 60 T 900 60 T 1050 60 T 1200 60 T 1350 60 T 1500 60 T 1650 60 T 1800 60 T 1950 60 T 2100 60 T 2250 60 T 2400 60"/>
+</svg>
